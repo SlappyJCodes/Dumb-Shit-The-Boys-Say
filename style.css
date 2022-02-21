@@ -17,3 +17,8 @@ head {
 .Osculus {
   text-align: center;
 }
+
+* {
+  box-sizing:border-box;
+  margin: 0 auto;
+}
