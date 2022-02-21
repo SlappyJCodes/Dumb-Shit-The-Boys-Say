@@ -6,7 +6,7 @@ body {
 }
 
 * {
-  box-sizing:border-box;
+  box-sizing: border-box;
   margin: 0 auto;
   text-align: center;
   margin-left: auto;
@@ -18,4 +18,10 @@ body {
   margin-left: auto;
   margin-right: auto;
   width: 50%;
+}
+
+ul {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
 }
