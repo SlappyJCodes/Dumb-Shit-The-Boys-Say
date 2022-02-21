@@ -4,3 +4,16 @@ body {
   padding: 25px;
   font-family: sans-serif;
 }
+
+head {
+  text-align: center;
+  font-weight: bold;
+}
+
+.Beretta {
+  text-align: center;
+}
+
+.Osculus {
+  text-align: center;
+}
